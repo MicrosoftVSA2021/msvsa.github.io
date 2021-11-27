@@ -1,0 +1,84 @@
+#textlist {
+    font-family: sans-serif;
+    color: #000080;
+    text-decoration: none;
+    background: #9999cd;
+    width: 223px;
+    height: 100%;
+    display: inline-block;
+}
+
+a {
+    font-family: sans-serif;
+    color: #000080;
+    text-decoration: none;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: #0079;
+    text-decoration: none;
+}
+
+#div {
+    font-family: sans-serif;
+    background: #cccce6;
+    text-decoration: none;
+    display: inline-block;
+    height: 100%;
+    margin: auto;
+}
+
+p {
+    color: #0079;
+}
+
+#windowsazure {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+
+#windowslive {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+
+#windowsmsn {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+
+#microsoftazurebrowser {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+
+#microsoftlivecom {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+
+#error404 {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+
+#microsoftazurebrowsersupport {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+
