@@ -82,3 +82,16 @@ p {
     margin: 5px;
 }
 
+#windowsazuredownloads {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
+
+#windowslivedownloads {
+    padding: 5px;
+    background: #9797c2;
+    font-family: 'Segoe UI';
+    margin: 5px;
+}
